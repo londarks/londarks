@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://i.pinimg.com/originals/93/d3/e3/93d3e31639a4d07613de9dccdc8bd5e8.png"/>
+<img align="left" height="200" src="https://images.vexels.com/media/users/3/153258/isolated/lists/12c17ce4fe4f8af1cd164d29789a4e2e-notebook-school-icon.png"/>
 
 ```diff
 Hi, I'm Gabriel.
