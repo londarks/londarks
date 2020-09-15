@@ -11,7 +11,7 @@
 <br/>
 ## I'm a developer just starting
 - 🇧🇷 Living in São Paulo, Brazil.
-- 🇧🇷 23 years old
+- 🎉 23 years old
 - 🔭 I am currently studying about some python frameworks like, Flask and Django
 - 🌱 I am currently studying nodejs for backend 🤣
 - 👯 I love making bots and automations that are fun and useful
