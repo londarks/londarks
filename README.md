@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://images.vexels.com/media/users/3/153258/isolated/lists/12c17ce4fe4f8af1cd164d29789a4e2e-notebook-school-icon.png"/>
+<!-- <img align="left" height="200" src="https://images.vexels.com/media/users/3/153258/isolated/lists/12c17ce4fe4f8af1cd164d29789a4e2e-notebook-school-icon.png"/> -->
 <br/>
 <br/>
 <br/>
@@ -9,7 +9,7 @@
 <br/>
 <br/>
 <br/>
-## I'm a Junior developer
+## About me
 - 🇧🇷 Living in São Paulo, Brazil.
 - 🎉 23 years old
 - 🔭 I am currently studying about some python frameworks like, Flask and Django
