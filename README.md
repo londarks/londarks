@@ -9,11 +9,11 @@
 <br/>
 <br/>
 <br/>
-## I'm a developer just starting
+## I'm a Junior developer
 - 🇧🇷 Living in São Paulo, Brazil.
 - 🎉 23 years old
 - 🔭 I am currently studying about some python frameworks like, Flask and Django
-- 🌱 I am currently studying nodejs for backend 🤣
+- 🌱 I'm also learning a little nodejs 🤣
 - 👯 I love making bots and automations that are fun and useful
 
 
