@@ -1,13 +1,7 @@
-<!-- <img align="left" height="200" src="https://images.vexels.com/media/users/3/153258/isolated/lists/12c17ce4fe4f8af1cd164d29789a4e2e-notebook-school-icon.png"/> -->
-<br/>
-<br/>
-<br/>
-
 ### Hi there, I'm Gabriel - Londarks 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/londarks?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/londarks)
-<br/>
-<br/>
+
 <br/>
 ## About me
 - 🇧🇷 Living in São Paulo, Brazil.
