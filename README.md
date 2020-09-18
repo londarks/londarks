@@ -1,6 +1,6 @@
 ### Hi there, I'm Gabriel - Londarks 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-twitter-000?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/londarks)](https://twitter.com/londarks)
+[![Twitter Badge](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/londarks)](https://twitter.com/londarks)
 
 <br/>
 
