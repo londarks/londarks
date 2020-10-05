@@ -1,6 +1,4 @@
-<center>
-	<img width="300" align="center" src="https://github.com/londarks/londarks/blob/master/img/capa.png"/>
-</center>
+![capa github](https://github.com/londarks/londarks/blob/master/img/capa.png)  
 
 <center>
   <table>
