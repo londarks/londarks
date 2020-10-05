@@ -1,5 +1,5 @@
 <center>
-	<img width="400px" src="https://github.com/londarks/londarks/blob/master/img/icon.png)  
+	<img width="300" height="300" src="https://github.com/londarks/londarks/blob/master/img/icon.png)  
 ">
 </center>
 ### Hi there, I'm Gabriel - Londarks 👋
