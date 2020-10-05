@@ -1,5 +1,7 @@
-![capa github](https://github.com/londarks/londarks/blob/master/img/icon.png)  
-
+<center>
+	<img width="400px" src="https://github.com/londarks/londarks/blob/master/img/icon.png)  
+">
+</center>
 ### Hi there, I'm Gabriel - Londarks 👋
 
 [![Twitter Badge](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/londarks)](https://twitter.com/londarks)
