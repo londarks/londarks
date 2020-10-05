@@ -1,4 +1,4 @@
-![capa github](https://github.com/londarks/londarks/blob/main/img/icon.png)  
+![capa github](https://github.com/londarks/londarks/blob/master/img/icon.png)  
 
 ### Hi there, I'm Gabriel - Londarks 👋
 
