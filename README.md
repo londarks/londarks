@@ -1,4 +1,4 @@
-<img width="300" align="center" src="https://github.com/londarks/londarks/blob/master/img/capa.png)"/>
+<img width="300" align="center" src="https://github.com/londarks/londarks/blob/master/img/capa.png"/>
 
 ### Hi there, I'm Gabriel - Londarks 👋
 
