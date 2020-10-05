@@ -1,18 +1,6 @@
-<img width="300" align="center" src="https://github.com/londarks/londarks/blob/master/img/capa.png"/>
-
-### Hi there, I'm Gabriel - Londarks 👋
-
-[![Twitter Badge](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/londarks)](https://twitter.com/londarks)
-
-<br/>
-
-## About me
-- 🇧🇷 Living in São Paulo, Brazil.
-- 🎉 23 years old
-- 🔭 I am currently studying about some python frameworks like, Flask and Django
-- 🌱 I'm also learning a little nodejs 🤣
-- 👯 I love making bots and automations that are fun and useful
-
+<center>
+	<img width="300" align="center" src="https://github.com/londarks/londarks/blob/master/img/capa.png"/>
+</center>
 
 <center>
   <table>
@@ -22,6 +10,23 @@
     </tr>   
   </table>
 </center>
+
+### Hi there, I'm Gabriel - Londarks 👋
+
+
+## About me
+- 🇧🇷 Living in São Paulo, Brazil.
+- 🎉 23 years old
+- 🔭 I am currently studying about some python frameworks like, Flask and Django
+- 🌱 I'm also learning a little nodejs 🤣
+- 👯 I love making bots and automations that are fun and useful
+- 🎮 I love strategy games, and teamwork, my last games were: legue of legends, Aika Online.
+
+
+## Where to find me
+[![Twitter Badge](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/londarks)](https://twitter.com/londarks)
+
+<br/>
 
 
 
