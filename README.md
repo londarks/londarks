@@ -1,7 +1,5 @@
-<center>
-	<img width="300" height="300" src="https://github.com/londarks/londarks/blob/master/img/capa.png)  
-">
-</center>
+<img width="300" align="center" src="https://github.com/londarks/londarks/blob/master/img/capa.png)"/>
+
 ### Hi there, I'm Gabriel - Londarks 👋
 
 [![Twitter Badge](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/londarks)](https://twitter.com/londarks)
