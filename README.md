@@ -7,7 +7,7 @@
 - 🔭 I am currently studying about some python frameworks like, Flask and Django
 - 🌱 I'm also learning a little nodejs 🤣
 - 👯 I love making bots and automations that are fun and useful
-- 🎮 I love strategy games, and teamwork, my last games were: legue of legends, Aika Online.
+- 🎮 I love strategy games, and teamwork, my last games were: League of Legends, Aika Online.
 
 
 ## Where to find me
