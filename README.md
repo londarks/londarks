@@ -1,2 +1,3 @@
-:D
-10/08/2021
+### Hi there, I'm Londarks 👋
+
+![trophy](https://github-profile-trophy.vercel.app/?username=londarks&theme=onedark)
