@@ -6,7 +6,7 @@
 
 💜 Faço parte da comunidade de desenvolvedores [He4rt Devs](https://heartdevs.com/)
 
-🚴🎮 Além dos estudos em programação, eu gosto muito de jogar com os amigos.
+🎮 Além dos estudos em programação, eu gosto muito de jogar com os amigos.
 
 - 🔭 Atualmente estou trabalhando na empre AGBot
 
