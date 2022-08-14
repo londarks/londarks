@@ -2,7 +2,6 @@
 
 ## Social
 
-
   <a target='_blank' href="https://linkedin.com/in/londarks/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
@@ -21,7 +20,7 @@
 
 🎮 In addition to studying programming, I really enjoy playing games with friends.
 
-- 🔭 I live creating strange things around
+- 🔭 I live creating strange things around.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=londarks&theme=aura&show_icons=true"/>
