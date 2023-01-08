@@ -16,8 +16,6 @@
 
 ## About
 
-💜 I'm part of the developer community [He4rt Devs](https://heartdevs.com/)
-
 🎮 In addition to studying programming, I really enjoy playing games with friends.
 
 - 🔭 I live creating strange things around.
