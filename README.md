@@ -5,11 +5,12 @@
 ## Social
 
   <a target='_blank' href="https://linkedin.com/in/londarks/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=%23F7DF1E
+        <img src="https://img.shields.io/badge/LinkedIn-%23323330?style=for-the-badge&logo=linkedin&logoColor=%23F7DF1E"
   </a>
 
 ## Skill
 
+![Python](https://img.shields.io/badge/python-%23323330?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Django](https://img.shields.io/badge/Django-%23323330?style=for-the-badge&logo=django&logoColor=%23F7DF1E)
 ![Django Rest](https://img.shields.io/badge/django%20rest-%23323330?style=for-the-badge&logo=django&logoColor=%23F7DF1E)
