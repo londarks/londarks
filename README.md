@@ -18,9 +18,9 @@
 
 ## About
 
-```
+
 🧠💡 I'm passionate about tackling challenges through programming, and I thrive on creating unique and innovative projects. 🌌 When I'm not immersed in coding, you'll often find me engaging in 2D games and strategic adventures with friends. 🎮🔍
-```
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=londarks&theme=github_dark)
 
