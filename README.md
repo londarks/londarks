@@ -1,6 +1,6 @@
 # 👾 Londarks Profile
 
-<img src="img/logo.svg">
+<img src="img/logo2.svg">
 
 ## Social
 
