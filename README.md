@@ -1,7 +1,9 @@
 # 👾 Londarks Profile
 
-<img height=200 src="img/logo.svg">
+<center>
+<img height=500 src="img/logo.svg">
 
+</center>
 ## Social
 
   <a target='_blank' href="https://linkedin.com/in/londarks/">
