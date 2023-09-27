@@ -5,16 +5,17 @@
 ## Social
 
   <a target='_blank' href="https://linkedin.com/in/londarks/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=%23F7DF1E
   </a>
 
 ## Skill
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Django](https://img.shields.io/badge/Django-339933?style=for-the-badge&logo=django&logoColor=white)
-![Django Rest](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
+![Django](https://img.shields.io/badge/Django-%23323330?style=for-the-badge&logo=django&logoColor=%23F7DF1E)
+![Django Rest](https://img.shields.io/badge/django%20rest-%23323330?style=for-the-badge&logo=django&logoColor=%23F7DF1E)
+![Docker](https://img.shields.io/badge/Docker-%23323330?style=for-the-badge&logo=docker&logoColor=%23F7DF1E)
+![Redis](https://img.shields.io/badge/redis-%23323330.svg?style=for-the-badge&logo=redis&logoColor=%23F7DF1E)
+![Firebase](https://img.shields.io/badge/firebase-%23323330.svg?style=for-the-badge&logo=firebase)
 
 ## About
 
