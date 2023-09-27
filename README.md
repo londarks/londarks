@@ -1,10 +1,12 @@
-✨ Hi there, I'm Gabriel! 👋
+# 👾 Londarks Profile
+
+<img src="img/logo.svg">
 
 ## Social
 
   <a target='_blank' href="https://linkedin.com/in/londarks/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
+  </a>
 
 ## Skill
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
@@ -16,11 +18,22 @@
 
 ## About
 
-🎮 In addition to studying programming, I really enjoy playing games with friends.
-
-🔭 I live creating strange things around.
+🧠💡 I'm passionate about tackling challenges through programming, and I thrive on creating unique and innovative projects. 🌌 When I'm not immersed in coding, you'll often find me engaging in 2D games and strategic adventures with friends. 🎮🔍
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=londarks&theme=aura&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=londarks&layout=compact&langs_count=8&theme=aura"/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=londarks&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=londarks&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=londarks&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=londarks&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=londarks&theme=github_dark)
+
 </div>
+
+
+
+
