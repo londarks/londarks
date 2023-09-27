@@ -1,7 +1,7 @@
 # 👾 Londarks Profile
 
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; alien-item: center;">
   <img height=400 src="img/logo.svg">
 </div>
 
