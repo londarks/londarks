@@ -18,7 +18,7 @@
 
 ## About
 
-```json
+```
 🧠💡 I'm passionate about tackling challenges through programming, and I thrive on creating unique and innovative projects. 🌌 When I'm not immersed in coding, you'll often find me engaging in 2D games and strategic adventures with friends. 🎮🔍
 ```
 
