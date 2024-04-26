@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img height=400 src="img/logo.svg">
+  <img height=400 src="https://i.kym-cdn.com/photos/images/original/000/695/400/a67.gif">
 </div>
 
 ## Social
