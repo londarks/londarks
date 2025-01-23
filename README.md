@@ -5,12 +5,6 @@
   <img height=400 src="https://i.kym-cdn.com/photos/images/original/000/695/400/a67.gif">
 </div>
 
-## Social
-
-  <a target='_blank' href="https://linkedin.com/in/londarks/">
-        <img src="https://img.shields.io/badge/LinkedIn-%23323330?style=for-the-badge&logo=linkedin&logoColor=%23F7DF1E"
-  </a>
-
 ## Skill
 
 ![Python](https://img.shields.io/badge/python-%23323330?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -20,17 +14,4 @@
 ![Docker](https://img.shields.io/badge/Docker-%23323330?style=for-the-badge&logo=docker&logoColor=%23F7DF1E)
 ![Redis](https://img.shields.io/badge/redis-%23323330.svg?style=for-the-badge&logo=redis&logoColor=%23F7DF1E)
 ![Firebase](https://img.shields.io/badge/firebase-%23323330.svg?style=for-the-badge&logo=firebase)
-
-## About
-
-
-🧠💡 I'm passionate about tackling challenges through programming, and I thrive on creating unique and innovative projects. 🌌 When I'm not immersed in coding, you'll often find me engaging in 2D games and strategic adventures with friends. 🎮🔍
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=londarks&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=londarks&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=londarks&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=londarks&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=londarks&theme=github_dark)
-
 
