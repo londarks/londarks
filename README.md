@@ -14,4 +14,3 @@
 ![Docker](https://img.shields.io/badge/Docker-%23323330?style=for-the-badge&logo=docker&logoColor=%23F7DF1E)
 ![Redis](https://img.shields.io/badge/redis-%23323330.svg?style=for-the-badge&logo=redis&logoColor=%23F7DF1E)
 ![Firebase](https://img.shields.io/badge/firebase-%23323330.svg?style=for-the-badge&logo=firebase)
-
