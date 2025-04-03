@@ -1,16 +1,46 @@
-# 👾 Londarks Profile
+```
+$ ./londarks.sh
+> protocol online...
 
+                                              _    ___  _  _ ___   _   ___ _  _____ 
+                                             | |  / _ \| \| |   \ /_\ | _ \ |/ / __|
+                                             | |_| (_) | .` | |) / _ \|   / ' <\__ \
+                                             |____\___/|_|\_|___/_/ \_\_|_\_|\_\___/
+                                        
+                                                      •  P R O T O C O L
 
-<div align="center">
-  <img height=400 src="https://i.kym-cdn.com/photos/images/original/000/695/400/a67.gif">
-</div>
+──────────────────────────────────────────────────────────────────────────────
+🛠 Stack de Operações
+──────────────────────────────────────────────────────────────────────────────
+- Python        :: v3.x
+- JavaScript    :: ES6+
+- FastAPI       :: Async REST APIs
+- Docker        :: Containerized Environments
+- Redis         :: Cache / Message Broker
 
-## Skill
+──────────────────────────────────────────────────────────────────────────────
+⚙️ Logs Ativos
+──────────────────────────────────────────────────────────────────────────────
+> Initializing node...
+> Loading core modules: Python, FastAPI, JS
+> Deploying containers...
+> Redis cache online
+> Realtime DB link: Myaql established
+> Listening on port 1337
 
-![Python](https://img.shields.io/badge/python-%23323330?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Django](https://img.shields.io/badge/Django-%23323330?style=for-the-badge&logo=django&logoColor=%23F7DF1E)
-![Django Rest](https://img.shields.io/badge/django%20rest-%23323330?style=for-the-badge&logo=django&logoColor=%23F7DF1E)
-![Docker](https://img.shields.io/badge/Docker-%23323330?style=for-the-badge&logo=docker&logoColor=%23F7DF1E)
-![Redis](https://img.shields.io/badge/redis-%23323330.svg?style=for-the-badge&logo=redis&logoColor=%23F7DF1E)
-![Firebase](https://img.shields.io/badge/firebase-%23323330.svg?style=for-the-badge&logo=firebase)
+──────────────────────────────────────────────────────────────────────────────
+🧠 Brainstorm Playground
+──────────────────────────────────────────────────────────────────────────────
+- Microservices na ponta da faca 🔪
+- APIs REST com tempero de segurança 🔐
+- Automação + produtividade = ❤️
+- Containers flutuando em rede escura 🌐
+- Quando dá tempo: UI malvada em JS 😈
+
+──────────────────────────────────────────────────────────────────────────────
+🔍 Tracking
+──────────────────────────────────────────────────────────────────────────────
+> systemctl status creativity.service
+● creativity.service - active (running)
+
+```
