@@ -13,7 +13,7 @@ $ ./londarks.sh
 🛠 Stack de Operações
 ──────────────────────────────────────────────────────────────────────────────
 - Python        :: v3.x
-- JavaScript    :: ES6+
+- NestJS        :: REST APIs
 - FastAPI       :: Async REST APIs
 - Docker        :: Containerized Environments
 - Redis         :: Cache / Message Broker
